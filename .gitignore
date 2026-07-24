@@ -1,0 +1,14 @@
+# Données brutes (trop volumineuses / à télécharger séparément)
+*.xlsx
+*.csv
+*.RDS
+
+# Fichiers R temporaires
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Fichiers système
+.DS_Store
+Thumbs.db
