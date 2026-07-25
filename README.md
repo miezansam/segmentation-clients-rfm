@@ -1,9 +1,16 @@
+
+## Auteur
+
+**YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
+Encadrant : Dr. TALNAN 
+Année académique : 2025-2026
+
 # Segmentation de la clientèle e-commerce (RFM + K-means)
 
-Projet réalisé dans le cadre du module **Programmation R** — Master 1 DATA-IA, Université Polytechnique de Bingerville.
+Projet réalisé dans le cadre du module **Programmation R** Master 1 DATA-IA, Université Polytechnique de Bingerville.
 
 Segmentation d'une base de 4 338 clients d'un site e-commerce britannique à partir de la méthode **RFM (Récence, Fréquence, Montant)** et d'un clustering **K-means**, validé par un clustering hiérarchique (méthode de Ward).
-
+ 
 ## Aperçu des résultats
 
 Quatre segments de clients ont été identifiés :
@@ -60,7 +67,6 @@ source("R/segmentation_clients_rfm.R")
 
 Le rapport détaillé (méthodologie, résultats, interprétation métier, limites, bibliographie) est disponible dans [`rapport/Rapport_Segmentation_Clients_RFM.pdf`](rapport/Rapport_Segmentation_Clients_RFM.pdf).
 
-## Auteur
+## Licence
 
-**YAO MIÉZAN SAM WILLIAM** — Master 1 DATA-IA, Université Polytechnique de Bingerville
-Encadrant : Dr. TALNAN — Année académique 2025-2026
+Projet académique à usage pédagogique.
