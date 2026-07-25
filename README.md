@@ -55,7 +55,7 @@ segmentation-clients-rfm/
 
 ## Dataset
 
-[Online Retail Data Set](https://archive.ics.uci.edu/dataset/352/online+retail) — UCI Machine Learning Repository. Transactions d'un site e-commerce britannique entre décembre 2010 et décembre 2011 (non inclus dans ce dépôt, à télécharger séparément).
+[Online Retail Data Set](https://archive.ics.uci.edu/dataset/352/online+retail) , UCI Machine Learning Repository. Transactions d'un site e-commerce britannique entre décembre 2010 et décembre 2011 (non inclus dans ce dépôt, à télécharger séparément).
 
 ## Reproduire l'analyse
 
