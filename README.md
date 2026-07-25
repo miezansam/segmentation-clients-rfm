@@ -1,15 +1,21 @@
+# Segmentation de la clientèle e-commerce (RFM + K-means)
+
+Projet réalisé dans le cadre du module **Programmation R** Master 1 DATA-IA, Université Polytechnique de Bingerville.
+
+Segmentation d'une base de 4 338 clients d'un site e-commerce britannique à partir de la méthode **RFM (Récence, Fréquence, Montant)** et d'un clustering **K-means**, validé par un clustering hiérarchique (méthode de Ward).
+
+![R](https://img.shields.io/badge/R-4.5.2-blue)
+![dplyr](https://img.shields.io/badge/dplyr-Data_Wrangling-brightgreen)
+![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-orange)
+![K-means](https://img.shields.io/badge/K--means-Clustering-success)
+![RFM](https://img.shields.io/badge/RFM-Récence_Fréquence_Montant-informational)
+![factoextra](https://img.shields.io/badge/factoextra-Cluster_Analysis-9cf)
 
 ## Auteur
 
 **YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
 **Enseignant** : Dr. TALNAN 
 **Année académique** : 2025-2026
-
-# Segmentation de la clientèle e-commerce (RFM + K-means)
-
-Projet réalisé dans le cadre du module **Programmation R** Master 1 DATA-IA, Université Polytechnique de Bingerville.
-
-Segmentation d'une base de 4 338 clients d'un site e-commerce britannique à partir de la méthode **RFM (Récence, Fréquence, Montant)** et d'un clustering **K-means**, validé par un clustering hiérarchique (méthode de Ward).
  
 ## Aperçu des résultats
 
