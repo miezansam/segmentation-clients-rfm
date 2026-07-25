@@ -14,8 +14,7 @@ Segmentation d'une base de 4 338 clients d'un site e-commerce britannique à par
 ## Auteur
 
 **YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
-**Enseignant** : Dr. TALNAN 
-**Année académique** : 2025-2026
+**Enseignant** : Dr. TALNAN  **Année académique** : 2025-2026
  
 ## Aperçu des résultats
 
