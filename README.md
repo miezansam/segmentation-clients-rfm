@@ -2,8 +2,8 @@
 ## Auteur
 
 **YAO MIÉZAN SAM WILLIAM** , Master 1 DATA-IA, Université Polytechnique de Bingerville
-Encadrant : Dr. TALNAN 
-Année académique : 2025-2026
+**Enseignant** : Dr. TALNAN 
+**Année académique** : 2025-2026
 
 # Segmentation de la clientèle e-commerce (RFM + K-means)
 
